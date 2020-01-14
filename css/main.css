@@ -1,7 +1,7 @@
 body{
     font-family: 'Source Sans Pro', sans-serif;
     color: #2b2b2b;
-   
+     
 }
 
 #about, #work, #contact {
@@ -40,9 +40,8 @@ header h1{
     padding: 75px 25px;
     text-transform: small-caps;
     text-decoration: none;
-  
-}
 
+}
 
 nav {
     float: right; 
